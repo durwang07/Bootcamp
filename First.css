@@ -1,0 +1,88 @@
+.header{
+    background-color: blue;
+    padding: 2vw 12vh;
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    font-weight: bold;
+}
+
+a{
+    color: white;
+    text-decoration: none;
+    font-weight: normal;
+}
+.main{
+    background-color: blue;
+    display: flex;
+    padding: 2vw 12vh;
+    color: white;
+    justify-content: space-between;
+}
+.left.cont button{
+    background-color: rgb(96, 210, 210);
+}
+.rand-info-parent{
+    display: flex;
+    padding: 0 12vw;
+    gap: 24px;
+    justify-content: center;
+   
+    
+   
+}
+/* .rand-info-parent{
+    width: 200px;
+} */
+
+h1{
+    text-align: center;
+}
+.box{
+    height: 150px;
+    width: 150px;
+    border: 2px solid black;
+    border-radius: 8px;
+   
+}
+.lord-of-thunder{
+    background-color: lightslategray;
+    height: 200px;
+    font-size: 30px;
+    text-align: center;
+    padding: 8vw ;
+}
+.god p{
+    text-align: right;
+    font-weight: bold;
+}
+.last1{
+    display: flex;
+    padding: 4vw;
+    align-items: center;
+    justify-content: center;
+  
+
+}
+.last{
+    display: flex;
+    background-color: springgreen;
+    justify-content: center;
+    padding: 40px;
+    gap: 20px;
+}
+.last button{
+    background-color: springgreen;
+    border: 1px solid white;
+    border-radius: 10px;
+    color: white;
+    gap: 2000px;
+    
+}
+footer{
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
+
